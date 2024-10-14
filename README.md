@@ -28,7 +28,11 @@ Para construção desse projeto foram utilizados:
 - TypeScript
 - JEST 
 
-Resultado :
+## Resultado :
 
 <img src="./src/assets/resultado.png" alt="">
 <img src="./src/assets/resultado2.png" alt="">
+
+## Confira: 
+
+https://bytebank-dev.netlify.app/
