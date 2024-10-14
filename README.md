@@ -1,4 +1,4 @@
-# 🏦 ByteBank - Testes com Jest e ReactJS
+# 🏦 git branch -M main - Testes com Jest e ReactJS
 
 Este repositório contém o projeto Bytebank, desenvolvido com fins educacionais. Seu objetivo é fornecer um exemplo prático de como implementar testes automatizados em uma aplicação ReactJS utilizando o Jest.
 
@@ -27,3 +27,8 @@ Para construção desse projeto foram utilizados:
 - JavaScript
 - TypeScript
 - JEST 
+
+Resultado :
+
+<img src="./src/assets/resultado.png" alt="">
+<img src="./src/assets/resultado2.png" alt="">
